@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local environment secrets
+.env
+
+# Test/tool caches
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store

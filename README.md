@@ -1,6 +1,6 @@
 # Synthetic-API-Reliability-Telemetry-Alerting-Engine (V1)
 
-A beginner-friendly command-line program that checks a single HTTP/HTTPS URL and tells you if it is **UP** or **DOWN**.
+An evolving Python-based system that performs synthetic API health checks, measures response latency, records reliability telemetry, detects incidents, and delivers alerts when monitored services become unavailable or unhealthy.
 
 ## What V1 does
 

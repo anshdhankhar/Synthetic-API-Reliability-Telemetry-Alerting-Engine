@@ -1,4 +1,4 @@
-# API Uptime Monitoring System (V1)
+# Synthetic-API-Reliability-Telemetry-Alerting-Engine (V1)
 
 A beginner-friendly command-line program that checks a single HTTP/HTTPS URL and tells you if it is **UP** or **DOWN**.
 
